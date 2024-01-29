@@ -1,0 +1,2 @@
+Lernen,False
+Mehr Lernen,False

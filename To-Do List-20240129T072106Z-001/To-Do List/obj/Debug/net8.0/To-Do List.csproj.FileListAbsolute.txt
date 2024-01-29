@@ -1,0 +1,42 @@
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfoInputs.cache
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfo.cs
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\source\repos\To-Do List\bin\Debug\net8.0\To-Do List.exe
+C:\Users\Praktikant\source\repos\To-Do List\bin\Debug\net8.0\To-Do List.deps.json
+C:\Users\Praktikant\source\repos\To-Do List\bin\Debug\net8.0\To-Do List.runtimeconfig.json
+C:\Users\Praktikant\source\repos\To-Do List\bin\Debug\net8.0\To-Do List.dll
+C:\Users\Praktikant\source\repos\To-Do List\bin\Debug\net8.0\To-Do List.pdb
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.dll
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\refint\To-Do List.dll
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.pdb
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\To-Do List.genruntimeconfig.cache
+C:\Users\Praktikant\source\repos\To-Do List\obj\Debug\net8.0\ref\To-Do List.dll
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.exe
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.deps.json
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.runtimeconfig.json
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.dll
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.pdb
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfoInputs.cache
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfo.cs
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.csproj.CoreCompileInputs.cache
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.dll
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\refint\To-Do List.dll
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.pdb
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.genruntimeconfig.cache
+c:\Users\User\Downloads\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\ref\To-Do List.dll
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.AssemblyInfo.cs
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.dll
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\refint\To-Do List.dll
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.pdb
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.exe
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.deps.json
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.runtimeconfig.json
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.dll
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\bin\Debug\net8.0\To-Do List.pdb
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\To-Do List.genruntimeconfig.cache
+C:\Users\User\source\repos\To-Do List-20240129T072106Z-001\To-Do List\obj\Debug\net8.0\ref\To-Do List.dll
